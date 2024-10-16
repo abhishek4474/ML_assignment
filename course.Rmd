@@ -1,7 +1,7 @@
 ---
 title: "Predictions using the Weight Lifting Exercises Dataset"
-author: "Sania Sarin"
-date: "15 October 2024"
+author: "Abhishek Sarkar"
+date: "16 October 2024"
 output: 
   html_document:
     keep_md: yes
